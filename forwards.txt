@@ -1,4 +1,4 @@
-Agüero#Man City#132#10.5#
+Ag√ºero#Man City#132#10.5#
 Joelinton#Newcastle#78#6.0#
 Kane#Spurs#158#10.5#
 Sharp#Sheffield Utd#57#6.0#
@@ -16,7 +16,7 @@ Lacazette#Arsenal#118#8.5#
 Benteke#Crystal Palace#42#5.5#
 Ings#Southampton#198#8.5#
 Decordova-Reid#Fulham#0#5.5#
-Jiménez#Wolves#194#8.5#
+Jim√©nez#Wolves#194#8.5#
 Bamford#Leeds#0#5.5#
 Richarlison#Everton#165#8.0#
 Origi#Liverpool#65#5.5#
@@ -60,3 +60,4 @@ Iheanacho#Leicester#64#6.0#
 Wickham#Crystal Palace#15#4.5#
 Gayle#Newcastle#58#6.0#
 Brewster#Liverpool#0#5.5#
+

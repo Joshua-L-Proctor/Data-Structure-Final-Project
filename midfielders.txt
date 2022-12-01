@@ -1,6 +1,6 @@
 Aubameyang#Arsenal#205#12.0#
 Shelvey#Newcastle#105#5.5#
-Mané#Liverpool#221#12.0#
+Man√©#Liverpool#221#12.0#
 Atsu#Newcastle#37#5.5#
 Salah#Liverpool#233#12.0#
 Saint-Maximin#Newcastle#92#5.5#
@@ -18,7 +18,7 @@ Pulisic#Chelsea#127#8.5#
 Grosicki#West Brom#0#5.5#
 Mahrez#Man City#175#8.5#
 Phillips#West Brom#0#5.5#
-Pépé#Arsenal#106#8.0#
+P√©p√©#Arsenal#106#8.0#
 Diangana#West Ham#0#5.5#
 Ziyech#Chelsea#0#8.0#
 Moutinho#Wolves#113#5.5#
@@ -28,18 +28,18 @@ Alli#Spurs#117#8.0#
 Podence#Wolves#25#5.5#
 Willian#Arsenal#168#8.0#
 Neto#Wolves#57#5.5#
-Bernardo#Silva#Man City#116#7.5#
+Bernardo Silva#Man City#116#7.5#
 Torreira#Arsenal#46#5.0#
 Greenwood#Man Utd#103#7.5#
 Willock#Arsenal#41#5.0#
 Bergwijn#Spurs#43#7.5#
 Guendouzi#Arsenal#48#5.0#
-Özil#Arsenal#53#7.0#
+√ñzil#Arsenal#53#7.0#
 Martinelli#Arsenal#39#5.0#
 Grealish#Aston Villa#149#7.0#
 DouglasLuiz#Aston Villa#90#5.0#
 Mount#Chelsea#137#7.0#
-Pröpper#Brighton#78#5.0#
+Pr√∂pper#Brighton#78#5.0#
 Zaha#Crystal Palace#120#7.0#
 Mooy#Brighton#80#5.0#
 Sigurdsson#Everton#95#7.0#
@@ -50,17 +50,17 @@ Barnes#Leicester#133#7.0#
 Brady#Burnley#32#5.0#
 Torres#Man City#0#7.0#
 Brownhill#Burnley#21#5.0#
-Lucas#Moura#Spurs#100#7.0#
+Lucas Moura#Spurs#100#7.0#
 Jorginho#Chelsea#92#5.0#
 LoCelso#Spurs#54#7.0#
-Kanté#Chelsea#57#5.0#
+Kant√©#Chelsea#57#5.0#
 Van De Beek#Man Utd#0#7.0#
-Kouyaté#Crystal Palace#85#5.0#
+Kouyat√©#Crystal Palace#85#5.0#
 Lallana#Brighton#27#6.5#
 Meyer#Crystal Palace#23#5.0#
 Tielemans#Leicester#117#6.5#
 Delph#Everton#24#5.0#
-Pérez#Leicester#129#6.5#
+P√©rez#Leicester#129#6.5#
 Gbamin#Everton#4#5.0#
 Shaqiri#Liverpool#15#6.5#
 McDonald#Fulham#0#5.0#
@@ -76,13 +76,13 @@ Redmond#Southampton#107#6.5#
 Kamara#Fulham#0#5.0#
 Lanzini#West Ham#50#6.5#
 Forshaw#Leeds#0#5.0#
-Felipe#Anderson#West Ham#66#6.5#
+Felipe Anderson#West Ham#66#6.5#
 Phillips#Leeds#0#5.0#
 Bowen#West Ham#44#6.5#
 Roberts#Leeds#0#5.0#
 Fornals#West Ham#93#6.5#
 Grot#Leeds#0#5.0#
-Traoré#Wolves#130#6.5#
+Traor√©#Wolves#130#6.5#
 Shackleton#Leeds#0#5.0#
 Jota#Wolves#105#6.5#
 Choudhury#Leicester#35#5.0#
@@ -92,7 +92,7 @@ Jota#Aston Villa#17#6.0#
 Matic#Man Utd#55#5.0#
 ElGhazi#Aston Villa#93#6.0#
 Pereira#Man Utd#60#5.0#
-Groß#Brighton#76#6.0#
+Gro√ü#Brighton#76#6.0#
 McTominay#Man Utd#74#5.0#
 Trossard#Brighton#104#6.0#
 Ritchie#Newcastle#74#5.0#
@@ -109,18 +109,18 @@ Berge#Sheffield Utd#40#5.0#
 Milivojevic#Crystal Palace#81#6.0#
 Sissoko#Spurs#69#5.0#
 Walcott#Everton#63#6.0#
-Højbjerg#Spurs#75#5.0#
+H√∏jbjerg#Spurs#75#5.0#
 Bernard#Everton#72#6.0#
 Fernandes#Spurs#7#5.0#
 Iwobi#Everton#52#6.0#
 Livermore#West Brom#0#5.0#
-Hernández#Leeds#0#6.0#
+Hern√°ndez#Leeds#0#6.0#
 Sawyers#West Brom#0#5.0#
 Mata#Man Utd#38#6.0#
 Edwards#West Brom#0#5.0#
 Lingard#Man Utd#32#6.0#
 Field#West Brom#0#5.0#
-Almirón#Newcastle#109#6.0#
+Almir√≥n#Newcastle#109#6.0#
 Noble#West Ham#105#5.0#
 Fleck#Sheffield Utd#101#6.0#
 Wilshere#West Ham#8#5.0#
@@ -146,7 +146,7 @@ Saka#Arsenal#71#5.5#
 Lansbury#Aston Villa#12#4.5#
 McGinn#Aston Villa#84#5.5#
 Nakamba#Aston Villa#43#4.5#
-Trézéguet#Aston Villa#98#5.5#
+Tr√©z√©guet#Aston Villa#98#5.5#
 Stephens#Brighton#63#4.5#
 Jahanbakhsh#Brighton#28#5.5#
 Bissouma#Brighton#39#4.5#
@@ -164,7 +164,7 @@ McArthur#Crystal Palace#92#5.5#
 Gordon#Everton#17#4.5#
 Schlupp#Crystal Palace#51#5.5#
 Anguissa#Fulham#0#4.5#
-André Gomes#Everton#39#5.5#
+Andr√© Gomes#Everton#39#5.5#
 Poveda-Ocampo#Leeds#0#4.5#
 Davies#Everton#59#5.5#
 Stevens#Leeds#0#4.5#
@@ -198,7 +198,7 @@ Harry Wilson#Liverpool#91#5.5#
 Burke#West Brom#0#4.5#
 Keita#Liverpool#52#5.5#
 Harper#West Brom#0#4.5#
-Gündogan#Man City#65#5.5#
+G√ºndogan#Man City#65#5.5#
 Jordao#Wolves#1#4.5#
 Rodrigo#Man City#92#5.5#
 Lemina#Fulham#0#4.5#

@@ -34,7 +34,7 @@ Evans#Leicester#128#5.5#
 Pieters#Burnley#77#4.5#
 Chilwell#Chelsea#114#5.5#
 Long#Burnley#21#4.5#
-Söyüncü#Leicester#120#5.5#
+S√∂y√ºnc√º#Leicester#120#5.5#
 Lowton#Burnley#48#4.5#
 Matip#Liverpool#39#5.5#
 Taylor#Burnley#84#4.5#
@@ -44,7 +44,7 @@ Fernandinho#Man City#55#5.5#
 Sakho#Crystal Palace#11#4.5#
 Cancelo#Man City#45#5.5#
 Tomkins#Crystal Palace#48#4.5#
-Aké#Man City#79#5.5#
+Ak√©#Man City#79#5.5#
 Ward#Crystal Palace#77#4.5#
 Zinchenko#Man City#49#5.5#
 Kelly#Crystal Palace#64#4.5#
@@ -60,7 +60,7 @@ Alderweireld#Spurs#97#5.5#
 Christie#Fulham#0#4.5#
 Aurier#Spurs#124#5.5#
 Mawson#Fulham#0#4.5#
-Sánchez#Spurs#64#5.5#
+S√°nchez#Spurs#64#5.5#
 Sessegnon#Fulham#0#4.5#
 Boly#Wolves#97#5.5#
 Cooper#Leeds#0#4.5#
@@ -70,11 +70,11 @@ Thiago Silva#Chelsea#0#5.5#
 Dallas#Leeds#0#4.5#
 Sokratis#Arsenal#57#5.0#
 Alioski#Leeds#0#4.5#
-Cédric#Arsenal#61#5.0#
+C√©dric#Arsenal#61#5.0#
 Morgan#Leicester#19#4.5#
 Mustafi#Arsenal#43#5.0#
 Fuchs#Leicester#26#4.5#
-Bellerín#Arsenal#44#5.0#
+Beller√≠n#Arsenal#44#5.0#
 Benkovic#Leicester#0#4.5#
 Kolasinac#Arsenal#55#5.0#
 Justin#Leicester#35#4.5#
@@ -86,7 +86,7 @@ Dunk#Brighton#128#5.0#
 Fosu-Mensah#Man Utd#7#4.5#
 Mee#Burnley#110#5.0#
 Williams#Man Utd#51#4.5#
-Rüdiger#Chelsea#63#5.0#
+R√ºdiger#Chelsea#63#5.0#
 Clark#Newcastle#49#4.5#
 Zouma#Chelsea#62#5.0#
 Lejeune#Newcastle#24#4.5#
@@ -122,15 +122,15 @@ Jones#Man Utd#2#5.0#
 Furlong#West Brom#0#4.5#
 Shaw#Man Utd#67#5.0#
 O'Shea#West Brom#0#4.5#
-Lindelöf#Man Utd#116#5.0#
+Lindel√∂f#Man Utd#116#5.0#
 Fredericks#West Ham#74#4.5#
 Bailly#Man Utd#9#5.0#
 Masuaku#West Ham#26#4.5#
 Dalot#Man Utd#4#5.0#
 Balbuena#West Ham#40#4.5#
-Fernández#Newcastle#102#5.0#
+Fern√°ndez#Newcastle#102#5.0#
 Diop#West Ham#76#4.5#
-Schär#Newcastle#55#5.0#
+Sch√§r#Newcastle#55#5.0#
 Bennett#Wolves#32#4.5#
 Basham#Sheffield Utd#123#5.0#
 Vinagre#Wolves#32#4.5#
@@ -162,13 +162,13 @@ Cresswell#West Ham#79#5.0#
 Casey#Leeds#0#4.0#
 Coady#Wolves#118#5.0#
 Amartey#Leicester#0#4.0#
-Saïss#Wolves#103#5.0#
+Sa√Øss#Wolves#103#5.0#
 Williams#Liverpool#14#4.0#
 Gabriel#Arsenal#0#5.0#
 Mengi#Man Utd#0#4.0#
 Cash#Aston Villa#0#5.0#
 Watts#Newcastle#1#4.0#
-Marí#Arsenal#8#4.5#
+Mar√≠#Arsenal#8#4.5#
 Vokins#Southampton#2#4.0#
 Chambers#Arsenal#42#4.5#
 Johnson#West Ham#6#4.0#
@@ -177,3 +177,4 @@ Buur#Wolves#0#4.0#
 Saliba#Arsenal#0#4.5#
 KilMan#Wolves#5#4.0#
 ElMohamady#Aston Villa#39#4.5#
+
