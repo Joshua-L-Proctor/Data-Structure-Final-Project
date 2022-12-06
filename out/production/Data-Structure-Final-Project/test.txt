@@ -1,0 +1,14 @@
+McBurnie#Sheffield Utd#86#6.0#
+Werner#Chelsea#0#9.5#
+Mousset#Sheffield Utd#84#6.0#
+Firmino#Liverpool#155#9.5#
+Adams#Southampton#78#6.0#
+Jesus#Man City#146#9.5#
+Rodrigo#Leeds#0#6.0#
+Martial#Man Utd#200#9.0#
+Connolly#Brighton#61#5.5#
+Lacazette#Arsenal#118#8.5#
+Benteke#Crystal Palace#42#5.5#
+Ings#Southampton#198#8.5#
+Decordova-Reid#Fulham#0#5.5#
+Jiménez#Wolves#194#8.5#
